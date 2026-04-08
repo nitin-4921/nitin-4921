@@ -33,10 +33,6 @@ Focus on sliding window, DP, stacks, recursion
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nitin-4921&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-4921&theme=tokyonight" /> </p>
 
 
-🏆 Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nitin-4921&theme=onedark" /> </p>
-
-
 🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/your-link"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/nitin-kumar-21b163309"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:nitin1019b@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"> </a> </p>
 
