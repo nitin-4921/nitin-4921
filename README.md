@@ -1,44 +1,73 @@
 # 👋 Hi there, I'm Nitin Kumar  
 
-🚀 **Full Stack Developer | DSA Enthusiast | IoT Builder**
+🏆 **SIH 2025 National Winner | Full Stack Developer | IoT + ML Builder**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;IoT+Builder;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SIH+National+Winner+🏆;IoT+%2B+ML+Enthusiast;Building+Real+World+Solutions+🚀" />
 </p>
 
 ---
 
 ## 🧠 About Me  
-- 🔭 Currently working on **Full Stack & IoT Projects (AirShield 🚀)**  
-- 🌱 Learning **Data Structures & Algorithms + System Design**  
-- 👯 Looking to collaborate on **Open Source & Web Projects**  
-- 🤔 Exploring **Backend Development & APIs**  
-- 💬 Ask me about **Java, C, JavaScript, Node.js**  
-- ⚡ Fun fact: *I love debugging more than writing code 😄*  
+- 🏆 **Smart India Hackathon 2025 – National Winner (Hardware Edition)**  
+- 🔭 Building **scalable full-stack + IoT systems**  
+- 🌱 Learning **System Design, DSA & Backend Scaling**  
+- 💡 Passionate about solving **real-world problems using ML + IoT**  
+- 👯 Open to collaborate on **innovative & impactful projects**  
+- ⚡ Fun fact: *I treat debugging like solving a mystery 🕵️‍♂️*  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  
 
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  
+### 🌐 Development  
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)  
-![EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge)  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)  
+---
+
+## 🚀 Featured Projects  
+
+### 🧭 TeerthFlow – Crowd Management System  
+- Built for **large-scale public gatherings (SIH Project)**  
+- 📊 ML-based **crowd density prediction & risk detection**  
+- 📡 Real-time dashboard for authorities  
+- ⚡ Improved safety & crowd flow efficiency  
+
+---
+
+### 🛠️ Smart Pothole Detection System  
+- ML + IoT-based **road health monitoring system**  
+- 📍 Detects potholes + classifies severity  
+- 🌐 Real-time dashboard for analysis  
+- 🚧 Enables **data-driven road maintenance**  
+
+---
+
+### 🐛 Issue Tracker System  
+- Full-stack app inspired by **GitHub Issues**  
+- ✨ Features: create, assign, track, update issues  
+- 🔗 Built with **React + Node.js + REST APIs**  
+
+---
+
+### 🏨 Wanderlust – Hotel Listing Platform  
+- Full MERN stack application  
+- 🔐 Authentication + validation system  
+- ⭐ Hotel listing, reviews & ratings  
+- 🎯 Clean UI + responsive design  
 
 ---
 
@@ -47,23 +76,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nitin_0614?theme=dark&font=Baloo&ext=contest" />
 </p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🌍 AirShield (IoT Air Quality Monitor)  
-- Real-time gas & pollution monitoring using **MQ sensors + ESP32**  
-- Sends live data to backend with **visual dashboard**  
-- Future scope: **ML-based pollution prediction**  
-
-### 🏡 Full Stack Listing App  
-- Built with **Node.js, Express, MongoDB, EJS**  
-- Features: **Authentication, CRUD, MVC structure**  
-
-### 🧠 DSA Practice  
-- Solved problems using **Java & C**  
-- Focus on **Sliding Window, DP, Stacks, Recursion**  
 
 ---
 
@@ -77,6 +89,14 @@
 
 ---
 
+## 🏆 Achievements  
+- 🥇 **Smart India Hackathon 2025 – National Winner**  
+- 🥈 SIH Internal Hardware Competition – 2nd Place  
+- 🥉 Hack & Wiz 2.0 – 3rd Place  
+- ☁️ Oracle Cloud AI Certified  
+- 🎓 Frontend Development Certified  
+
+---
 
 ## 🌐 Connect With Me  
 
@@ -84,7 +104,7 @@
   <a href="https://linkedin.com/in/nitin-kumar-21b163309">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:nitin1019b@gmail.com">
+  <a href="mailto:nitin.kumar1_cs24@gla.ac.in">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -92,4 +112,4 @@
 ---
 
 ## ✨ Quote  
-> **"Consistency beats talent when talent doesn’t work hard."**
+> **"Build solutions that matter."**
