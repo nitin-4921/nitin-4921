@@ -77,13 +77,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nitin-4921/nitin-4921/output/snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
